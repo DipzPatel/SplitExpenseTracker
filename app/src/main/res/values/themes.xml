@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="Theme.SplitExpenseTracker"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#2563EB</item>
+        <item name="colorPrimaryContainer">#DBEAFE</item>
+
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+
+    </style>
+
+    <style name="Theme.SplitExpenseTracker.Splash" parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">@color/splash_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.SplitExpenseTracker</item>
+
+    </style>
+</resources>

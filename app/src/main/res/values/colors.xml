@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_bg">#2563EB</color>
+    <color name="primary_green">#16A34A</color>
+    <color name="background_color">#F8FAFC</color>
+    <color name="card_color">#FFFFFF</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+
+    <color name="primary">#2563EB</color>
+    <color name="primary_container">#DBEAFE</color>
+</resources>
